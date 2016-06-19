@@ -9,6 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>pagani-common</module>
+        <module>pagani-concurrency</module>
     </modules>
 
     <packaging>pom</packaging>
